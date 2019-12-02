@@ -1,0 +1,4 @@
+[package]
+name = "Advent of Code - Day 1"
+version = "0.1.0"
+authors = ["Antonia <antoniaelsen@gmail.com>"]
