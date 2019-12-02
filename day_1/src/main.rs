@@ -51,9 +51,6 @@
 /*
  * Learning Rust
  *
- * The following solution to the AoC problem is relatively verbose, for clarity when learning new material.
- *
- *
  * Printing - https://doc.rust-lang.org/stable/rust-by-example/hello/print.html
  * Comments - https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html
  * Functions - https://doc.rust-lang.org/stable/rust-by-example/fn.html
