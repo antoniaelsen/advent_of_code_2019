@@ -11,12 +11,14 @@ Advent of Code, 2019, done in Rust as an introduction to the language.
 
 ## Compiling & Running
 
-In each day's directory:
+Compilation is managed by Cargo.
 
-- Compilation with `rustc script.rs`
-- Run with `./script.rs`
+In any Day's directory, run:
+
+- `cargo build`
+- `cargo run`
 
 
 ### Advent of Code Day # Rust Topics
 
-- Day 1: printing, comments, functions, mutable binding
+- Day 1: printing, comments, functions, closures, file I/O, Iterators, Collections, Result, Option and unwrapping, ternary
